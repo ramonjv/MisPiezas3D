@@ -1,2 +1,2 @@
 # MisPiezas3D
-Piezas diseñadas por mi para imprimir en Prusa i3 hephestos
+Piezas dibujadas por mi para imprimir en Prusa i3 hephestos
